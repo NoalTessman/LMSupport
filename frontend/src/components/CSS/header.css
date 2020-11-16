@@ -1,0 +1,29 @@
+#HeaderContainer{
+display:grid;
+grid-template-columns: 30% 20% 50%;
+background-color: #70b5fa;
+}
+#HeaderTitle{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 3%;
+    color: white;
+    font-family: sans-serif;
+}
+#HeaderLinks{
+grid-column: 3/4;
+display: flex;
+justify-content: space-around;
+align-items: center;
+font-family: sans-serif;
+color: white;
+}
+#HeaderLink{
+
+}
+#HeaderLink:hover{
+    background-color: white;
+    color: #70b5fa;
+    cursor: pointer;
+}

@@ -1,0 +1,12 @@
+#SupportLineContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    height: 120vh;
+    grid-gap:4px;
+    background-color: rgb(247, 247, 247);
+}
+@media (min-width:1000px){
+#SupportLineContainer{
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}}

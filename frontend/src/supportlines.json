@@ -1,0 +1,74 @@
+{
+    "example":{
+            "Name":"",
+            "Chat":"",
+            "Email":"",
+            "Number":3432423,
+            "Description":""
+        },
+    "ListofLines":[
+        {
+            "Name":"Kaltura",
+            "Website":"https://support.kaltura.com/login",
+            "Chat":"",
+            "Email":"",
+            "Number":3432423,
+            "Description":"This is for a lot of different videos on canvas, most of the time clearing cache and cookies is a good way to do this, but overall they have decent support, your organization just needs to be a paying account and you will receive support."
+        },
+        {
+            "Name":"TurnItIn",
+            "Website":"https://www.turnitin.com/support",
+            "Chat":"",
+            "Email":"",
+            "Number":3432423,
+            "Description":"To get support here, you have to make an account."
+        },
+        {
+            "Name":"Proctorio",
+            "Website":"https://proctorio.com/support",
+            "Chat":"You can access live chat by using the installed extension",
+            "Email":"support@proctorio.com",
+            "Number":3432423,
+            "Description":"This is for the Google LTI's, there are many and generally canvas doesn't support a lot of this."
+        },
+        {
+            "Name":"Google",
+            "Website":"https://support.google.com/?hl=en",
+            "Chat":"",
+            "Email":"",
+            "Number":3432423,
+            "Description":"This is for the Google LTI's, there are many and generally canvas doesn't support a lot of this, nor do they."
+        },{
+            "Name":"Kaltura",
+            "Website":"https://support.kaltura.com/login",
+            "Chat":"",
+            "Email":"",
+            "Number":3432423,
+            "Description":"This is for a lot of different videos on canvas, most of the time clearing cache and cookies is a good way to do this, but overall they have decent support, your organization just needs to be a paying account and you will receive support."
+        },
+        {
+            "Name":"TurnItIn",
+            "Website":"https://www.turnitin.com/support",
+            "Chat":"",
+            "Email":"",
+            "Number":3432423,
+            "Description":"To get support here, you have to make an account."
+        },
+        {
+            "Name":"Proctorio",
+            "Website":"https://proctorio.com/support",
+            "Chat":"You can access live chat by using the installed extension",
+            "Email":"support@proctorio.com",
+            "Number":3432423,
+            "Description":"This is for the Google LTI's, there are many and generally canvas doesn't support a lot of this."
+        },
+        {
+            "Name":"Google",
+            "Website":"https://support.google.com/?hl=en",
+            "Chat":"",
+            "Email":"",
+            "Number":3432423,
+            "Description":"This is for the Google LTI's, there are many and generally canvas doesn't support a lot of this, nor do they."
+        }
+    ]
+}
